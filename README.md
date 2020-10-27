@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AleatoryCM/AleatoryCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+My name's Cass Aleatory (or just Cassie if you prefer). You might also know me as @rk_firestorm, the handle I use across all my social media platforms. I'm an independent game developer and writer. While telling stories is my specialty, I'm also a pretty experienced programmer who's worked in C#, Java, C++, HTML, CSS, and Processing (Java based). I enjoy experimenting with other game development roles in my spare time, including composition, sound design, graphics art, community management, and user experience design.
+
+I graduated from Verona Area High School in the spring of 2017, and am currently working towards two Bachelor's degrees. I'm a triple major in English: Professional Writing & Publishing, Media Arts & Game Development: Technology, and Film Studies at the University of Wisconsin in Whitewater. I'm also a member of the University Honors Program there.
+
+Nowadays, I work mostly on projects of my own choosing that have personal significance to me. My stories tend to be character-based narratives that deal with themes of emotional and mental struggle, and how love, friendship, and communication are affected by the things that go on inside people's heads. I also enjoy writing metagame and nonlinear stories from time to time.
+
+I'm currently hard at work on several large projects, including the character-driven, decisions-matter, multiple-act Exarch and End of The Party, a randomized-yet-decision-based light-hearted RPG. Even though I'm really stressed out 110% of the time, I'm always keeping my eyes open for even more projects that offer me the chance to tell cool stories. If you want to see my work (or hire/work with me!), visit my portfolio at https://aleatorycm.github.io/! I keep it up-to-date with all my latest work and available channels of contact.
