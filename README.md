@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-My name's Cass Aleatory (or just Cassie if you prefer). You might also know me as @rk_firestorm, the handle I use across all my social media platforms. I'm an independent game developer and writer. While telling stories is my specialty, I'm also a pretty experienced programmer who's worked in C#, Java, C++, HTML, CSS, and Processing (Java based). I enjoy experimenting with other game development roles in my spare time, such as music composition, sound design, graphics art, community management, and user experience design.
+My name's Cass Aleatory (or just Cassie if you prefer). You might also know me as @rk_firestorm, the handle I use across all my social media platforms. I'm an independent game developer and writer. While telling stories is my specialty, I'm also a pretty experienced programmer who's worked in C#, Java, C++, HTML, CSS, and Processing (Java based). In my spare time, I enjoy experimenting with other game development roles, such as music composition, sound design, graphics art, community management, and user experience design.
 
 I graduated from Verona Area High School in the spring of 2017, and am currently working towards two Bachelor's degrees. I'm a triple major in English: Professional Writing & Publishing, Media Arts & Game Development: Technology, and Film Studies at the University of Wisconsin in Whitewater. I'm also a member of the University Honors Program there.
 
